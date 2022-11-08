@@ -11,5 +11,18 @@ https://globalbioimaging.org/international-training-courses/bioimage-analysis-st
 ### Digital image
 
 ### Image measurements
+<hr>
 
 ### Segmentation
+
+ ![Cell nuclei](images/Cell_nuclei.png)| ![Segmented nuclei](images/Thresholded_Cell_nuclei_ROIs.png)
+   ------ | ------|
+  Original nuclei | Labelled nuclei |
+
+
+
+Cell nuclei segmentation:
+
+- Example image (visualize on Cell Image Library): http://www.cellimagelibrary.org/images/41066
+
+- Example image (download from Cell Image Library): https://cildata.crbs.ucsd.edu/media/images/41066/41066.tif
