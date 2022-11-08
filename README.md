@@ -9,6 +9,7 @@ https://globalbioimaging.org/international-training-courses/bioimage-analysis-st
 <hr>
 
 ### Digital image
+<hr>
 
 ### Image measurements
 <hr>
