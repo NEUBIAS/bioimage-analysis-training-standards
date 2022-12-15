@@ -9,6 +9,10 @@ https://globalbioimaging.org/international-training-courses/bioimage-analysis-st
 
 <hr>
 
+### Example image data
+
+- Work in progress in [this table](https://docs.google.com/spreadsheets/d/1l8sX18I04P0sl2iTs6SRK90lYhkJWHy91QjIvjEip3k/edit?usp=sharing).
+
 
 ### Digital image
 <hr>
