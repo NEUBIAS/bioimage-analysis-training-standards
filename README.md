@@ -11,4 +11,4 @@ https://globalbioimaging.org/international-training-courses/bioimage-analysis-st
 
 ### Example image data
 
-- Work in progress in [this table](https://docs.google.com/spreadsheets/d/1l8sX18I04P0sl2iTs6SRK90lYhkJWHy91QjIvjEip3k/edit?usp=sharing).
+- Work in progress in [this table](https://docs.google.com/spreadsheets/d/1JDt3WKLeytPAVFf3iG1uAE7Pg2iZEj8LZSUySUN7uGI/edit?usp=sharing).
